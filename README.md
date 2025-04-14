@@ -1,4 +1,4 @@
-# BibliotecaMVC
+# Biblioteca
  
   Utilização de MVC (Modal - View - Controler), ou seja, organização de forma clara do código em 3 partes. Aplicação apenas em PHP.
 
