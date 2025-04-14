@@ -15,6 +15,7 @@ O sistema deve permitir:
 
 
 <br>
+
    Após a aplicação do código e finalização do MVC, as informações aparecerão no navegador dessa forma:
  
  ![Captura de tela 2025-04-14 160518](https://github.com/user-attachments/assets/61af409b-7e6e-469d-aa0a-8bbaf5e4f037)
