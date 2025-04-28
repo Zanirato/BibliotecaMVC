@@ -10,7 +10,11 @@
 <br>
   Imagine que você foi contratado para criar um sistema simples em PHP, usando o padrão MVC (Model - View - Controller), para gerenciar o cadastro de livros de uma pequena biblioteca escolar.
 O sistema deve permitir:
+
+
 * 1.    Listar livros cadastrados.
+ 
+
 * 2.    Exibir informações de cada livro (Título, Autor, Ano de publicação).
 
 
